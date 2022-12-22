@@ -1,3 +1,4 @@
+//assignment
 //you can declare variables with let, var or const
 // let - allows it to be changed/updated later in the script
 //const - cannot be reassigned later in the script

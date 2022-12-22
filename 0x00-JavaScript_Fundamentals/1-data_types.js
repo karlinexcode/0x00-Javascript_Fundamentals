@@ -1,3 +1,4 @@
+//assignment
 const isIsland = false;
 let language;
 console.log(typeof language); //undefined
