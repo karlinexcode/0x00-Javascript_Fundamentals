@@ -3,7 +3,7 @@ const isIsland = false;
 let language;
 console.log(typeof language); //undefined
 
-language = "English";
+language = "arabic";
 console.log(typeof isIsland); //boolean
 console.log(typeof population); //number
 console.log(typeof country); //string
