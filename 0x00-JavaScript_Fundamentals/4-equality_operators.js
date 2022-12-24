@@ -1,7 +1,7 @@
 //assignment
 //equality operators ===(strict equlity) vs ==(loose equality)
 // === operator - the prompt here has been turned to number
-const numNeighbours = Number(prompt("How many neighbour countries does your country have?"));
+/* const numNeighbours = Number(prompt("How many neighbour countries does your country have?"));
 if (numNeighbours === 1){
     console.log("only 1 border");
 }else if (numNeighbours > 1){
@@ -9,6 +9,7 @@ if (numNeighbours === 1){
 }else if (numNeighbours < 1){
     console.log("No border");
 }
+*/
 /* the === equality does not use type conversion like the == operator */
 // == operator - the prompt here is a string
 // const numNeighbours = prompt("How many neighbour countries does your country have?");
