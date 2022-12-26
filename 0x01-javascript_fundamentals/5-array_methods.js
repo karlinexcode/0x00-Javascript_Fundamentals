@@ -26,3 +26,7 @@ if (!neighbours.includes('Germany')) {
 //.indexOf
 neighbours[neighbours.indexOf('Guinea')] = 'Guinea Bissau';
 console.log(neighbours);
+
+/*
+array[.length] - 1 (will return the last element in the array)
+*/
