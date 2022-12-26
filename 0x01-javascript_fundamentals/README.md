@@ -1,0 +1,1 @@
+Javascript Fundamentals Part 2 @ Jonas Schmedtmann - Udemy course
